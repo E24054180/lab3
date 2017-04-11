@@ -8,4 +8,4 @@
 	                  insertion_sort(): 96.0807 seconds
                  n=1000000:sort(): 0.351695 seconds
 	                   insertion_sort(): 9081.05 seconds
-when n become more and more,the second by using sort() and insertion_sort() will be very different,and the insertion_sort() need more time than sort().  
+when n become more and more,the second by using sort() and insertion_sort() will be very different,and the insertion_sort() need much time than sort().  
